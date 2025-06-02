@@ -1,6 +1,4 @@
-
-
-<!--# 💫 About Me:
+ 💫 About Me:
 🎮 I’m currently working on:<br>A macOS app that speaks fluent DualSense—Adaptive Triggers, HD Rumble, motion sensors, and everything that makes PlayStation magic tick.<br><br>🧠 Also building for the web:<br>Crafting sleek, high-performance web apps using modern tech like React, Tailwind, and Node.js—because great UX shouldn’t be limited to native apps.<br><br>🤝 I’m looking to collaborate on:<br>Creative dev projects—whether it’s Swift-based macOS/iOS magic or full-stack web apps that solve real problems (or just look really cool).<br><br>🧩 I’m looking for help with:<br>Pushing the limits of DualSense controller support on macOS, and exploring serverless + edge computing to scale web apps like a breeze.<br><br>🌱 I’m currently learning:<br>Metal (Apple’s graphics API), advanced Swift patterns, and diving deeper into full-stack frameworks like Next.js and tRPC.<br><br>💬 Ask me about:<br>Making controllers vibrate just right, SwiftUI quirks, web animations that don’t feel like 2010, or building cross-platform tools.<br><br>⚡ Fun fact:<br>Built a site that looked better on a controller than a mouse. Weird flex? Maybe. Worth it? Definitely.
 
 
